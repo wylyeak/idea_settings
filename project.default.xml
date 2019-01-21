@@ -1,0 +1,394 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="/work/project/github/MybatisPlugin-Crack-Javassist" value="2953691562000" />
+            <entry key="/work/project/github/java-testing-with-spock/chapter5" value="1480860107000" />
+            <entry key="/work/project/github/java-testing-with-spock/chapter6" value="1480860107000" />
+            <entry key="/work/project/github/java-testing-with-spock/chapter7/rest-service-example" value="1480860107000" />
+            <entry key="/work/project/github/java-testing-with-spock/chapter7/spring-standalone-swing" value="2961720214000" />
+            <entry key="/work/project/github/java-testing-with-spock/chapter7/web-ui-example" value="1480860107000" />
+            <entry key="/work/project/github/java-testing-with-spock/chapter8" value="1480860107000" />
+            <entry key="/work/project/github/spock" value="2965635318000" />
+            <entry key="/work/project/github/spring/spring-framework" value="5898114785000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="/work/project/wylyeak/mybatis_plus3" value="PREVIEW" />
+            <entry key="/work/workspace/fresh/suona" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="Duplicates" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="JavaDoc" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="TOP_LEVEL_CLASS_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="INNER_CLASS_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="METHOD_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+              </value>
+            </option>
+            <option name="FIELD_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="IGNORE_DEPRECATED" value="false" />
+            <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+            <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+            <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+            <option name="myAdditionalJavadocTags" value="" />
+          </inspection_tool>
+          <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="loggerClassName" value="org.apache.log4j.Logger,org.slf4j.LoggerFactory,org.apache.commons.logging.LogFactory,java.util.logging.Logger" />
+            <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
+          </inspection_tool>
+          <inspection_tool class="MissingOverrideAnnotation" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="ignoreObjectMethods" value="true" />
+            <option name="ignoreAnonymousClassMethods" value="false" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="MarkdownProjectSettings">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="false" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="false" synchronizeSourcePosition="false" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_EMOJI_URL" value="false" />
+            <option name="GITHUB_LISTS" value="true" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="1.8" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="WylYeak" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
+              </State>
+              <State>
+                <id>Gradle</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>Maven</id>
+              </State>
+              <State>
+                <id>OSGi</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Probable bugsGradle</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="recentsLimit" value="5" />
+        <property name="restartRequiresConfirmation" value="true" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <patterns />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <properties />
+          <listeners />
+        </configuration>
+        <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.43" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+          <option name="OPEN_IN_BROWSER" value="false" />
+          <option name="COMMON_VM_ARGUMENTS" value="-Xmx512m -Xmn512m -XX:MaxPermSize=128m -XX:PermSize=128m -Dfile.encoding=UTF-8" />
+          <option name="UPDATING_POLICY" value="restart-server" />
+          <deployment />
+          <server-settings>
+            <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+          </server-settings>
+          <predefined_log_file id="Tomcat" enabled="true" />
+          <predefined_log_file id="Tomcat Catalina" enabled="true" />
+          <predefined_log_file id="Tomcat Manager" enabled="false" />
+          <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+          <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="50578" />
+          </RunnerSettings>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>bootstrap</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

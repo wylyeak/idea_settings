@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="adfadf" type="PLAIN_TEXT" />
+      <mapping pattern=".NetrwTreeListing 2.swp" type="PLAIN_TEXT" />
+      <mapping ext="token" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping pattern="*_at.cfg" type="Access Transformers File" />
+    </extensionMap>
+  </component>
+</application>

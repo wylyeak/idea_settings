@@ -1,0 +1,21 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:RedundantThrowsDeclarationCheck" />
+        <option value="squid:S1220" />
+        <option value="squid:S1602" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <token>dfcedf9cdfc8dfc8df9bdf99df9edf9adf9fdfcfdf98df9bdf92df98df9ddfcbdf93df9ddf9bdf92df9fdfcedfccdf9fdf98dfc8dfcbdf9bdf93df93dfc9dfc9df9fdf98df99df9bdf9edf9ddf9cdf9d</token>
+          <option name="name" value="LocalHost" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

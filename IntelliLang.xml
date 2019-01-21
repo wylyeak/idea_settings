@@ -1,0 +1,24 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>OrderSolrPushTask.pushSolrCreateTask (com.jd.taskEngine.order)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("pushSolrCreateTask").withParameters("java.lang.String", "java.lang.String").definedInClass("com.jd.taskEngine.order.OrderSolrPushTask"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>OrderTaskPushTask.pushOrderItemUpdate (com.jd.taskEngine.order)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("pushOrderItemUpdate").withParameters("java.lang.String", "java.lang.String").definedInClass("com.jd.taskEngine.order.OrderTaskPushTask"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="xml">
+      <display-name>delete</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("delete")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="xml">
+      <display-name>entry/@value</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("entry")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans")))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="xml">
+      <display-name>value</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("value")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans"))]]></place>
+    </injection>
+  </component>
+</application>

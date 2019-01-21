@@ -1,0 +1,29 @@
+<templateSet group="custom">
+  <template name="jpro" value="@JProfiler(jKey = &quot;$END$&quot;, jAppName = UmpConstants.UMP_APP_NAME, mState = {JProEnum.TP, JProEnum.FunctionError})" description="JProfiler" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="getlogger" value="private static Logger logger = LoggerFactory.getLogger($TYPE$.class);" description="getlogger" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="cpro" value="CallerInfo callerInfo = Profiler.registerInfo(&quot;&quot;, UmpConstants.UMP_APP_NAME, UmpConstants.UMP_DISABLE_HEART, UmpConstants.UMP_ENABLE_TP);&#10;try {&#10;    $SELECTION$&#10;} catch (RuntimeException e) {&#10;    logger.error(&quot;&quot;, e);&#10;    Profiler.functionError(callerInfo);&#10;    throw e;&#10;} finally {&#10;    Profiler.registerInfoEnd(callerInfo);&#10;}" description="Ump Profiler" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="testhead" value="@ContextConfiguration(locations = {&quot;classpath:spring-config.xml&quot;})&#10;@ContextConfiguration(classes = AppStart)&#10;@RunWith(SpringJUnit4ClassRunner.class)&#10;@SpringBootTest(classes = AppStart.class)&#10;@ActiveProfiles(&quot;dev&quot;)" description="Junit Test Head" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="btest" value="@ContextConfiguration(classes = AppStart)&#10;@SpringBootTest&#10;@ActiveProfiles(&quot;dev&quot;)" description="Junit Test Head" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

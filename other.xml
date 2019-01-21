@@ -1,0 +1,85 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.0.0" last-modified="1496824546000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.0.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.6.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.3.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.2.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/4.1.2/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/0.12.7/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.70494294" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5935315" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.0804829" />
+    <property name="InstalledPluginsSearchHistory" value="mybatis" />
+    <property name="JUnit.Splitter.Proportion" value="0.25512254" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="open in te&#10;editor tab" />
+    <property name="LiveContextsPanel[0]" value="0.08153281" />
+    <property name="MavenHelper.lastRadioButton" value="tree" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="gmaven&#10;maven&#10;gm&#10;lua&#10;nginx" />
+    <property name="SearchEveryWhereHistory" value="#" />
+    <property name="SettingsSearchHistory" value="keymap&#10;maven&#10;show&#10;plugin&#10;ter" />
+    <property name="SplitFileEditor.Proportion" value="0.6197813" />
+    <property name="SpringBeansModulesPanel[0]" value="0.124610595" />
+    <property name="SpringBeansModulesPanel[1]" value="0.09186955" />
+    <property name="SpringBeansModulesPanel[2]" value="0.18209408" />
+    <property name="SpringBeansModulesPanel[3]" value="0.12376238" />
+    <property name="SpringMvcModulesPanel[0]" value="0.08038585" />
+    <property name="TrendingPluginsSearchHistory" value="doc&#10;mybatis" />
+    <property name="android-component-compatibility-check" value="1532282683002" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.gist.reindex.count" value="33763" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="ideavim.statistics.timestamp" value="1547955881676" />
+    <property name="ignore.bundled.jre.version.message" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.LUA_MODULE" value="Lua" />
+    <property name="kotlin.lastUpdateCheck" value="1532443118494" />
+    <property name="last.imported.location" value="/work/workspace/fresh/xstore-order-ebs/pom.xml" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="search.everywhere.max.popup.width" value="1035" />
+    <property name="selected.color.option.type" value="LIVE_TEMPLATE_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.CFML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Spaces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.log.details.splitter.proportion" value="0.7723404" />
+  </component>
+  <component name="PropertiesRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS" value="true" />
+  </component>
+</application>
