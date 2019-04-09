@@ -4,6 +4,7 @@
       <set>
         <option value="squid:RedundantThrowsDeclarationCheck" />
         <option value="squid:S1118" />
+        <option value="squid:S1168" />
         <option value="squid:S1220" />
         <option value="squid:S1602" />
         <option value="squid:S4032" />
