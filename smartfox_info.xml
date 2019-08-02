@@ -1,4 +1,19 @@
 <application>
+  <component name="PandoraTypes">
+    <option name="templates">
+      <Templates>
+        <option name="downloadUrl" value="http://gitlab.alibaba-inc.com/aone-docker/release/repository/archive.zip?ref=master" />
+        <option name="templates">
+          <list>
+            <Template>
+              <option name="name" value="pandoraboot-7u" />
+              <option name="path" value="pandoraboot-7u" />
+            </Template>
+          </list>
+        </option>
+      </Templates>
+    </option>
+  </component>
   <component name="SmartFoxConfig">
     <option name="DPlusInitialViewTime" value="1564670202997" />
     <option name="codeStyleImported" value="true" />
