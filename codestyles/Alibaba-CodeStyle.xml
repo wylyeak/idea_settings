@@ -11,6 +11,7 @@
         <package name="javax.swing" withSubpackages="false" static="false" />
         <package name="spock.lang" withSubpackages="true" static="false" />
         <package name="org.powermock.api.mockito.PowerMockito" withSubpackages="true" static="true" />
+        <package name="org.mockito.Mockito" withSubpackages="true" static="true" />
       </value>
     </option>
     <option name="IMPORT_LAYOUT_TABLE">
