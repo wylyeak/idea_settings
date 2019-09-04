@@ -20,5 +20,6 @@
     <mask>Test.java</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
