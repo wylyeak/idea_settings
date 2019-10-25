@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="corpId" type="PLAIN_TEXT" />
       <mapping pattern="ignore_project" type="PLAIN_TEXT" />
       <mapping pattern="fdaf" type="PLAIN_TEXT" />
