@@ -22,7 +22,7 @@
     <mask>*.java</mask>
     <mask>*.groovy</mask>
     <mask>*Mapper.xml</mask>
-    <mask>*IService.java</mask>
     <mask>*.xml</mask>
+    <mask>*IService.java</mask>
   </component>
 </application>
