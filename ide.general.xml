@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
     <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
@@ -10,7 +11,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
