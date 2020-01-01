@@ -16,9 +16,6 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
-  <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl meta right" />
   </action>
