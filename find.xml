@@ -23,7 +23,7 @@
     <mask>*.xml</mask>
     <mask>*IService.java</mask>
     <mask>Test.*</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
