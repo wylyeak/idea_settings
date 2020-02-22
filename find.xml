@@ -18,12 +18,12 @@
     <mask>Test.java</mask>
     <mask>*.sql</mask>
     <mask>*Test.java</mask>
-    <mask>*.groovy</mask>
     <mask>*Mapper.xml</mask>
     <mask>*.xml</mask>
     <mask>*IService.java</mask>
     <mask>Test.*</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
