@@ -6,6 +6,7 @@
       <mapping pattern="ignore_project" type="PLAIN_TEXT" />
       <mapping pattern="adfadf" type="PLAIN_TEXT" />
       <mapping pattern="fdaf" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".NetrwTreeListing 2.swp" type="PLAIN_TEXT" />
       <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
