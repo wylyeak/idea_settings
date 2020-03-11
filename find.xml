@@ -27,7 +27,7 @@
     <mask>Test.*</mask>
     <mask>*.groovy</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
