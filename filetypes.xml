@@ -1,20 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="corpId" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="fdaf" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".NetrwTreeListing 2.swp" type="PLAIN_TEXT" />
-      <mapping pattern="ignore_project" type="PLAIN_TEXT" />
       <mapping pattern="adfadf" type="PLAIN_TEXT" />
-      <mapping pattern="fdaf" type="PLAIN_TEXT" />
-      <mapping ext="token" type="PLAIN_TEXT" />
+      <mapping pattern="corpId" type="PLAIN_TEXT" />
+      <mapping pattern="ignore_project" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
