@@ -16,7 +16,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="le" value="LoggerUtils.error(logger, this.getClass(), &quot;$methodName$&quot;, &quot;reson&quot;, &quot;desc&quot;,&#10;    $nv$);" shortcut="SPACE" description="logger.error" toReformat="true" toShortenFQNames="true">
+  <template name="le" value="LoggerUtils.error(log, this.getClass(), &quot;$methodName$&quot;, &quot;reson&quot;, &quot;desc&quot;,&#10;    $nv$);" shortcut="SPACE" description="logger.error" toReformat="true" toShortenFQNames="true">
     <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="nv" expression="groovyScript(&quot;_1.collect { param -&gt; 'NameValue.create(\&quot;' + param + '\&quot;, ' + param + ')'}.join(', ')&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
     <context>
