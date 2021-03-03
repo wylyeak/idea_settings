@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Strings/Copy String Concatenation Text to the Clipboard" />
     <ignoreAction name="Java/Boolean/De Morgan's laws" />
+    <ignoreAction name="Java/Try Statements/Replace catch section with throws declaration" />
   </component>
 </application>
