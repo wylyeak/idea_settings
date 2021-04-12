@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="OvertimeFunctionPlug" type="AUTO_DETECTED" />
       <mapping pattern="attendResultPlug" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="fdaf" type="PLAIN_TEXT" />
