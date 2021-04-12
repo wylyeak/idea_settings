@@ -24,7 +24,7 @@
     <mask>*.java</mask>
     <mask>*.groovy</mask>
     <mask>*.js</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
