@@ -3,6 +3,7 @@
     <injection language="JSON" injector-id="java">
       <display-name>JSON (com.alibaba.fastjson)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parseObject").withParameters("java.lang.String").definedInClass("com.alibaba.fastjson.JSON"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parseObject").withParameters("java.lang.String", "com.alibaba.fastjson.TypeReference", "com.alibaba.fastjson.parser.Feature...").definedInClass("com.alibaba.fastjson.JSON"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parseObject").withParameters("java.lang.String", "java.lang.Class").definedInClass("com.alibaba.fastjson.JSON"))]]></place>
     </injection>
     <injection language="JSON" injector-id="java">
