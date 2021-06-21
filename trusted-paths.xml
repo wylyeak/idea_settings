@@ -8,6 +8,7 @@
         <option value="$USER_HOME$/work/workspace/lippi-server" />
         <option value="$USER_HOME$/Downloads" />
         <option value="$USER_HOME$/work/workspace/lippi" />
+        <option value="$USER_HOME$/work/project/github/spring-guides/gs-messaging-stomp-websocket" />
       </list>
     </option>
   </component>
