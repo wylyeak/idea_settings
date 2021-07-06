@@ -9,6 +9,7 @@
         <option value="file:///usr/local/Cellar/go/1.13.5/libexec" />
         <option value="file:///usr/local/Cellar/go/1.14/libexec" />
         <option value="file:///usr/local/Cellar/go/1.15.3/libexec" />
+        <option value="file:///usr/local/Cellar/go/1.16.5/libexec" />
         <option value="file:///usr/local/Cellar/go/1.16/libexec" />
         <option value="file://C:/Go" />
       </set>
